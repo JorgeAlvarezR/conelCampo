@@ -347,6 +347,8 @@ h2 {
 /***** Julia *****/
 /*---------------*/
 
+/*
+
 figure.effect-julia {
 	background: #2f3238;
 }
@@ -424,6 +426,7 @@ figure.effect-julia:hover p {
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
 }
+*/
 
 .gallery-slider .slick-dots li.slick-active, 
 .gallery-slider .slick-dots li:hover {
